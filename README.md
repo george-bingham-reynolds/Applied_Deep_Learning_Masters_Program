@@ -1,2 +1,2 @@
 # Applied_Deep_Learning_Masters_Program
-A collection of coding assignments from Applied Deep Learning Master's program course
+This repo contains coding projects from the course Applied Deep Learning from the Fall 2022 semester of my Master's in Data Science program at Columbia University. The first homework assignment is largely an introduction to vanilla neural networks; the second is a computer vision task; the third is a multi-input, Vision-Question-Answer Model. As the final project was a more major assignment for the class, it is contained in its own repo.
